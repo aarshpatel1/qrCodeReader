@@ -1,6 +1,6 @@
 # QR Code Reader
 
-A simple and efficient QR code reader built with [insert relevant technologies/libraries, e.g., Python, JavaScript, OpenCV, etc.]. This application allows users to scan and decode QR codes from images or camera input.
+A simple and efficient QR code reader built with Python.
 
 ## Features
 
