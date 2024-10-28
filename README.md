@@ -52,9 +52,5 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 5. Open a pull request.
 
 
-## Acknowledgments
-
-- [List any resources, libraries, or inspirations used in the project.]
-
 ## Contact
 Feel free to add or remove sections based on your project's specifics!
